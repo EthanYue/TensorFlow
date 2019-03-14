@@ -1,0 +1,17 @@
+*~
+*.pyc
+.idea
+*/log
+*.sql
+*.log
+env.py
+*.ini
+*.mako
+*_.py
+!__init__.py
+logs
+config.py
+migrations
+static
+images
+files
