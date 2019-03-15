@@ -10,6 +10,7 @@ env.py
 *_.py
 !__init__.py
 *.gz
+save
 logs
 config.py
 migrations
