@@ -9,6 +9,7 @@ env.py
 *.mako
 *_.py
 !__init__.py
+*.gz
 logs
 config.py
 migrations
